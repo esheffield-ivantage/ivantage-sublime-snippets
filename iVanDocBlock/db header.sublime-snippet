@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:<summary>}
+ *
+ * ${2:<description>}
+ *
+ * @param {${3:<type>}} ${4:<name>} ${5:<description>}
+ * @return {${6:<type>}}
+ */
+]]></content>
+	<tabTrigger>dbheader</tabTrigger>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:<summary>}
+ *
+ * ${2:<description>}
+ *
+ * @package ${3:<package-name>}
+ * @copyright ${4:<year>} iVantage Health Analytics, Inc.
+ */
+]]></content>
+	<tabTrigger>dbpackage</tabTrigger>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:<summary>}
+ *
+ * ${2:<description>}
+ */
+]]></content>
+	<tabTrigger>dbproperty</tabTrigger>
+</snippet>
