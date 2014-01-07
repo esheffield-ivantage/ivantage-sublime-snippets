@@ -12,3 +12,15 @@ choose `Package Control: Add Repository`. Paste the URL for this repository (htt
 This will add it to the list of packages available under package control. Run the command `Package Control: Install Package` and search
 for `ivantage-sublime-snippets`. Choose the package to install it. Future updates to this repository should be installed automatically
 when Sublime Text starts up.
+
+## Snippet Triggers
+
+You can use the following tab triggers to use the snippets.
+
+#### DocBlocks
+
+- *dbpackage*,  File header
+- *dbheader*,   Function/Method header
+- *dbparam*,    `@param` line for function header
+- *dbproperty*, Property/attribute descriptor
+
