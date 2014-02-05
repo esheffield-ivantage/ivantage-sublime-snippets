@@ -24,3 +24,13 @@ You can use the following tab triggers to use the snippets.
 - *dbparam*,    `@param` line for function header
 - *dbproperty*, Property/attribute descriptor
 
+#### General
+
+- *vardump*,	Output a PHP `var_dump()` with `<pre>` and `exit()` formatting
+- *dashline*,	Generic "dashed-line" comment
+- *consoledir*,	Outputs a `Console::dir()` statement
+
+#### Active4D
+
+Fills in the gaps in the official Active4D SublimeText package. Note that this
+package has not yet been release for SublimeText 3.
