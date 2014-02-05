@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>name</key>
+        <string>(A4D) Query with array</string>
+        <key>uuid</key>
+        <string>524BA20C-C1F7-427D-8749-15F8B666E494</string>
+        <key>tabTrigger</key>
+        <string>qwa</string>
+        <key>content</key>
+        <string>QUERY WITH ARRAY([${1:table}]; ${2:\$array})$0</string>
+        <key>scope</key>
+        <string></string>
+    </dict>
+</plist>

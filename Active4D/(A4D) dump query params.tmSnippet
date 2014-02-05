@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>name</key>
+        <string>(A4D) dump query params</string>
+        <key>uuid</key>
+        <string>6E4C862A-B24F-415B-A9BD-48BBC91DF550</string>
+        <key>tabTrigger</key>
+        <string>dqp</string>
+        <key>content</key>
+        <string>a4d.debug.dump query params</string>
+        <key>scope</key>
+        <string></string>
+    </dict>
+</plist>

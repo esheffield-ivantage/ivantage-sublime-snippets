@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>name</key>
+        <string>dashline</string>
+        <key>uuid</key>
+        <string>C419B264-B8A7-470D-973B-EB855EE54F69</string>
+        <key>content</key>
+        <string>// -----------------------------------------------------
+// $0
+// -----------------------------------------------------</string>
+        <key>scope</key>
+        <string></string>
+        <key>tabTrigger</key>
+        <string>dash</string>
+    </dict>
+</plist>
