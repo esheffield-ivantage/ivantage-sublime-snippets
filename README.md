@@ -34,3 +34,7 @@ You can use the following tab triggers to use the snippets.
 
 Fills in the gaps in the official Active4D SublimeText package. Note that this
 package has not yet been release for SublimeText 3.
+
+#### PHP
+
+- *gs*,	Create PHP getters and setters
