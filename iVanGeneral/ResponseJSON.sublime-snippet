@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{
+  "success": ${1:<success>},
+  "msg": ${2:<message>},
+  "data": ${3:<data>}
+}
+]]></content>
+	<tabTrigger>respjson</tabTrigger>
+</snippet>
