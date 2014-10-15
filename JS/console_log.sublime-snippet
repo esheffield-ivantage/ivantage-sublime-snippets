@@ -4,5 +4,5 @@ console.log(${1:msg});${0}
 ]]></content>
 	<tabTrigger>clog</tabTrigger>
 	<scope>source.js</scope>
-	<description>console.log></description>
+	<description>console.log</description>
 </snippet>
