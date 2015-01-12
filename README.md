@@ -38,3 +38,4 @@ package has not yet been release for SublimeText 3.
 #### PHP
 
 - *gs*,	Create PHP getters and setters
+- *ddump*, Outputs a Doctrine debug statement
