@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+\Doctrine\Common\Util\Debug::dump(${1:$var});
+exit;${0}
+]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>ddump</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Doctrine dump debugging statement</description>
+</snippet>
