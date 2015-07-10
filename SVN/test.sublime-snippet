@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+test${1:(${2:<scope>})}: ${3:<summary>}
+
+${4:<details>}
+]]></content>
+	<tabTrigger>svntest</tabTrigger>
+	<description>Adding, removing, fixing tests</description>
+</snippet>

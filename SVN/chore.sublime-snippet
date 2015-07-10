@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+chore${1:(${2:<scope>})}: ${3:<summary>}
+
+${4:<details>}
+]]></content>
+	<tabTrigger>svnchore</tabTrigger>
+	<description>E.g. updating build routines</description>
+</snippet>

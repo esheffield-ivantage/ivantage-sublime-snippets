@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+feature${1:(${2:<scope>})}: ${3:<summary>}
+
+${4:<details>}
+]]></content>
+	<tabTrigger>svnfeat</tabTrigger>
+	<description>Adding a new feature</description>
+</snippet>

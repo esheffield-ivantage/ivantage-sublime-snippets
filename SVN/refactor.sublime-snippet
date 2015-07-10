@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+refactor${1:(${2:<scope>})}: ${3:<summary>}
+
+${4:<details>}
+]]></content>
+	<tabTrigger>svnrefac</tabTrigger>
+	<description>Just like it used to be but better</description>
+</snippet>

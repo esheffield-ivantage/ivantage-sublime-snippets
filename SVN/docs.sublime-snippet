@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+docs${1:(${2:<scope>})}: ${3:<summary>}
+
+${4:<details>}
+]]></content>
+	<tabTrigger>svndocs</tabTrigger>
+	<description>Making edits to the documentation</description>
+</snippet>

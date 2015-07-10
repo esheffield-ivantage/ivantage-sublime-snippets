@@ -39,3 +39,18 @@ package has not yet been release for SublimeText 3.
 
 - *gs*,	Create PHP getters and setters
 - *ddump*, Outputs a Doctrine debug statement
+
+#### SVN
+
+A set of set of snippets for creating standard iVantage commit messages.
+See the [commit message guidelines](https://github.com/iVantage/Contribution-Guidelines#commit-message-guidelines)
+for details about the types
+
+- *svnadmin*, admin
+- *svnchore*, chore
+- *svndocs*, docs
+- *svnfeat*, feature
+- *svnfix*, fix
+- *svnrefac*, refactor
+- *svnstyle*, style
+- *svntest*, test

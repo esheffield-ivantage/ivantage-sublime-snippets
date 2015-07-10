@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+fix${1:(${2:<scope>})}: ${3:<summary>}
+
+${4:<details>}
+]]></content>
+	<tabTrigger>svnfix</tabTrigger>
+	<description>Correcting broken functionality</description>
+</snippet>

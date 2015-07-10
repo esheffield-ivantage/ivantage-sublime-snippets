@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+style${1:(${2:<scope>})}: ${3:<summary>}
+
+${4:<details>}
+]]></content>
+	<tabTrigger>svnstyle</tabTrigger>
+	<description>Cleaning up style, e.g. linting or appeasing jscs</description>
+</snippet>
